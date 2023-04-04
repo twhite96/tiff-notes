@@ -9,8 +9,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
+    "gatsby": "2.24.67",
     "gatsby-plugin-plausible": "^0.0.7",
+    "gatsby-remark-double-brackets-link": "^0.1.11",
     "gatsby-remark-double-parenthesis-link": "^0.1.5",
     "gatsby-remark-prismjs": "4.0.0",
     "gatsby-theme-garden": "^0.1.1",

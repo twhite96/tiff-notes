@@ -5,7 +5,19 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/content/garden`,
         rootNote: `/inbox`,
-        parseWikiLinks: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-double-brackets-link`,
+            options: {
+              parseWikiLinks: true,
+            },
+          },
+        ],
       },
     },
     {

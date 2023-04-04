@@ -1,5 +1,5 @@
 ---
-title: this can
+title: Spaced Repetition
 ---
 # Spaced Repetition
 
