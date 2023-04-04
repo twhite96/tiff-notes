@@ -1,0 +1,15 @@
+# How Cuomo Took Advantage of MeToo
+
+## Metadata
+* URL: [https://www.nytimes.com/2021/08/07/nyregion/andrew-cuomo-metoo.html](https://www.nytimes.com/2021/08/07/nyregion/andrew-cuomo-metoo.html)
+* Published Date: 2021-08-07
+    * Title: [[How Cuomo Took Advantage of #MeToo]]
+* Author: [[Arya Sundaram]]
+
+## Highlights
+* Of the 11 women the report described as victims of Mr. Cuomo’s harassment, at least eight said they experienced it after early October 2017, when the revelations about sexual misconduct by the producer Harvey Weinstein broke. About that time, Mr. Cuomo asked a young aide named Lindsey Boylan to play strip poker, she said. In November 2017, as the tide of accusations against other men rose, Mr. Cuomo targeted the state trooper, asking for her to be assigned to his detail, the report said. From there, it claimed, he moved on to offenses that included groping. The three-term Democrat has denied that he “touched anyone inappropriately or made inappropriate sexual advances,” and suggested that the attorney general’s investigation was politically motivated.
+  * **Note**: This does not surprise me I the slightest
+* During that period, Mr. Cuomo not only made it easier for New Yorkers to bring forth sexual harassment claims, but approved legislation lengthening the statute of limitations for rape. As he boasted of those accomplishments at news conferences and public events, he surrounded himself with powerhouse feminists like the actress-activists Mira Sorvino and Julianne Moore. He allied himself with leaders of Time’s Up, the gender-equality organization started in the wake of the Weinstein allegations, and leaned on them for advice as he later fended off allegations.
+  * **Note**: This is disgusting yet cunning in its slyness
+* “It’s not just about toughening the laws,” Anita Hill, who introduced the term sexual harassment to many Americans three decades ago, said in an interview. “You also have to change the mind-set of people who may believe that they’re above the law.”
+* After Ms. Boylan raised the first public accusations of harassment, the governor’s office went to work on discrediting her. Roberta Kaplan, the Time’s Up chairwoman and co-founder of its legal defense fund, in consultation with Ms. Tchen, shared feedback on an Op-Ed letter aimed at smearing Ms. Boylan. (The letter was never published.) Now Ms. Kaplan and Ms. Tchen are accused of being swept up in what the attorney general’s report calls “unlawful retaliation” by the governor’s aides against a victim. And in interviews, several sexual assault survivors questioned why the Time's Up leaders were advising the governor on his response at all. The two women said they cautioned Mr. Cuomo’s office not to go on the attack. “I did not sign off on anything,” Ms. Tchen said in an email. Both said that they and Time’s Up would “continue to fight for, support and empower women,” as Ms. Kaplan put it in a statement.

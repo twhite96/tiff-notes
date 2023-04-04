@@ -1,0 +1,101 @@
+:root {
+  --primary-color: #ff1493;
+  --font-family: "Source Sans Pro", sans-serif;
+}
+
+::selection {
+  background: var(--primary-color);
+}
+
+p,
+a,
+ol,
+ul,
+li,
+blockquote {
+  font-size: 1.3rem;
+}
+
+blockquote {
+  margin-left: .6vw !important;
+  margin-right: 3vw !important;
+  max-width: 1080px !important;
+  padding-left: .5em !important;
+  position: relative !important;
+  font-family: "Inter", sans-serif;
+  border-left: 2px solid var(--primary-color) !important;
+  font-style: italic !important;
+  color: #a1a1a7 !important;
+}
+
+header > h1 > a {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Bree Serif", serif;
+}
+
+
+header > p {
+  line-height: 1.5;
+}
+
+footer > p {
+  display: none;
+}
+
+.markdown-body p {
+  font-size: 1.3rem;
+  line-height: 1.9em;
+  margin-bottom: 1.2em;
+}
+
+pre > code {
+  font-size: 1.3rem;
+  font-family: 'Fira Code';
+}
+
+:not(pre)>code[class*="language-"],
+pre[class*="language-"] {
+    background: #F9F9F9;
+    border-radius: .3em;
+    color: #BF616A;
+    padding: .15em .2em .05em;
+    white-space: normal;
+    font-family: 'Fira Code', monospace;
+}
+
+.markdown-body li {
+  line-height: 1.9em;
+}
+
+input.task-list-item-checkbox {
+  margin-right: 4px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+blockquote {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
