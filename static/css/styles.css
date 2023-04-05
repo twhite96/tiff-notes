@@ -99,3 +99,11 @@ h3 {
   font-size: 1.2rem;
 }
 
+a[href^="http"] {
+  color: #0984ff;
+}
+
+a {
+  text-decoration: none;
+  color: #0984ff;
+}
