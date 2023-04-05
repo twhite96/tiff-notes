@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.1",
   "scripts": {
-    "develop": "gatsby clean & gatsby develop",
-    "start": "gatsby clean & gatsby develop",
-    "build": "gatsby clean & gatsby build",
+    "develop": "gatsby clean && gatsby develop",
+    "start": "gatsby clean && gatsby develop -p 9200",
+    "build": "gatsby clean && gatsby build",
     "clean": "gatsby clean"
   },
   "dependencies": {
