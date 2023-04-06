@@ -110,6 +110,7 @@ a {
 }
 a[href^="http"]:visited {
   color: var(--link-visited);
+  text-decoration: none;
 }
 
 a:visited {
