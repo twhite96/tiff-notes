@@ -1,6 +1,7 @@
 :root {
   --primary-color: #ff1493;
-  --font-family: "Source Sans Pro", sans-serif;
+  --font-family: sans-serif;
+  --link-visited: #af52de;
 }
 
 ::selection {
@@ -106,4 +107,12 @@ a[href^="http"] {
 a {
   text-decoration: none;
   color: #0984ff;
+}
+a[href^="http"]:visited {
+  color: var(--link-visited);
+}
+
+a:visited {
+  text-decoration: none;
+  color: var(--link-visited);
 }

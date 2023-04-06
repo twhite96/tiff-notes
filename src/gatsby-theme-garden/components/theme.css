@@ -16,6 +16,7 @@ body.light-mode {
   --separator: #e2e8f0;
   --shadow: rgba(0, 0, 0, 0.1);
   --link: #0984ff;
+  --link-visited: #af52de;
 
   /* References */
   --references-bg: white;
