@@ -21,7 +21,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `@tiff's working notes`,
+    title: `tiff's working notes`,
     author: "tiff",
     description: "A collection of notes and things I am thinking about, heavily inspired by Andy Matushak.",
   },
